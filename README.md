@@ -1,2 +1,3 @@
-# dm_test
-Test repo for database management subject at AU
+# Hello-world
+This is test repo for Database Management subject
+I am looking forward to learning more
